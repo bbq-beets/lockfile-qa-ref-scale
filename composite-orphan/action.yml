@@ -1,0 +1,5 @@
+name: composite
+runs:
+  using: composite
+  steps:
+    - uses: bbq-beets/lockfile-qa-ref-scale/child@ffe3ee4e2d215a29d3bedfc62732f91334f8ce62
