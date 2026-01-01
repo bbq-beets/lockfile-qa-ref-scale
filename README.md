@@ -2,4 +2,4 @@
 
 Inert action metadata used to test lockfile tooling. Nothing here runs.
 
-Fixture dual-a.
+Fixture dual-b.
