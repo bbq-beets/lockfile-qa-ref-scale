@@ -1,0 +1,5 @@
+name: composite-sticky
+runs:
+  using: composite
+  steps:
+    - uses: bbq-beets/lockfile-qa-ref-scale/child@child-v1
