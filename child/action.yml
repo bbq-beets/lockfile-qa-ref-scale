@@ -1,0 +1,5 @@
+name: child
+description: Inert fixture metadata; never executed.
+runs:
+  using: node20
+  main: index.js
