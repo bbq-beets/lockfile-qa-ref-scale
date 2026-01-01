@@ -1,0 +1,5 @@
+name: composite-moved
+runs:
+  using: composite
+  steps:
+    - uses: bbq-beets/lockfile-qa-invalid-lock-pr@v0.186.100
