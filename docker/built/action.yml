@@ -1,0 +1,4 @@
+name: built
+runs:
+  using: docker
+  image: Dockerfile

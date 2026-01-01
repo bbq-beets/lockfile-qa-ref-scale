@@ -1,0 +1,4 @@
+name: port
+runs:
+  using: docker
+  image: docker://registry.example.com:5000/team/tool:1.2

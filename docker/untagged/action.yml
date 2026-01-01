@@ -1,0 +1,4 @@
+name: untagged
+runs:
+  using: docker
+  image: docker://alpine
