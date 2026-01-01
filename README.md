@@ -2,4 +2,4 @@
 
 Inert action metadata used to test lockfile tooling. Nothing here runs.
 
-Revision 0.
+Revision 1.
